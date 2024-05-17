@@ -1,0 +1,418 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ganesh Raaj\\HEXAWARE segue\\Technical Foundation Training\\Assignment\\TicketManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E67342-C9F0-47D3-B1B0-C3020E8A5911}|TicketManagementSystem.csproj|d:\\ganesh raaj\\hexaware segue\\technical foundation training\\assignment\\ticketmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E67342-C9F0-47D3-B1B0-C3020E8A5911}|TicketManagementSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E67342-C9F0-47D3-B1B0-C3020E8A5911}|TicketManagementSystem.csproj|d:\\ganesh raaj\\hexaware segue\\technical foundation training\\assignment\\ticketmanagementsystem\\repository\\eventrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E67342-C9F0-47D3-B1B0-C3020E8A5911}|TicketManagementSystem.csproj|solutionrelative:repository\\eventrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E67342-C9F0-47D3-B1B0-C3020E8A5911}|TicketManagementSystem.csproj|d:\\ganesh raaj\\hexaware segue\\technical foundation training\\assignment\\ticketmanagementsystem\\model\\bookingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E67342-C9F0-47D3-B1B0-C3020E8A5911}|TicketManagementSystem.csproj|solutionrelative:model\\bookingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E67342-C9F0-47D3-B1B0-C3020E8A5911}|TicketManagementSystem.csproj|d:\\ganesh raaj\\hexaware segue\\technical foundation training\\assignment\\ticketmanagementsystem\\model\\ticketbookingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E67342-C9F0-47D3-B1B0-C3020E8A5911}|TicketManagementSystem.csproj|solutionrelative:model\\ticketbookingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E67342-C9F0-47D3-B1B0-C3020E8A5911}|TicketManagementSystem.csproj|d:\\ganesh raaj\\hexaware segue\\technical foundation training\\assignment\\ticketmanagementsystem\\model\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E67342-C9F0-47D3-B1B0-C3020E8A5911}|TicketManagementSystem.csproj|solutionrelative:model\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E67342-C9F0-47D3-B1B0-C3020E8A5911}|TicketManagementSystem.csproj|d:\\ganesh raaj\\hexaware segue\\technical foundation training\\assignment\\ticketmanagementsystem\\model\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E67342-C9F0-47D3-B1B0-C3020E8A5911}|TicketManagementSystem.csproj|solutionrelative:model\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E67342-C9F0-47D3-B1B0-C3020E8A5911}|TicketManagementSystem.csproj|d:\\ganesh raaj\\hexaware segue\\technical foundation training\\assignment\\ticketmanagementsystem\\repository\\venuerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E67342-C9F0-47D3-B1B0-C3020E8A5911}|TicketManagementSystem.csproj|solutionrelative:repository\\venuerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E67342-C9F0-47D3-B1B0-C3020E8A5911}|TicketManagementSystem.csproj|d:\\ganesh raaj\\hexaware segue\\technical foundation training\\assignment\\ticketmanagementsystem\\model\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E67342-C9F0-47D3-B1B0-C3020E8A5911}|TicketManagementSystem.csproj|solutionrelative:model\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E67342-C9F0-47D3-B1B0-C3020E8A5911}|TicketManagementSystem.csproj|d:\\ganesh raaj\\hexaware segue\\technical foundation training\\assignment\\ticketmanagementsystem\\repository\\bookingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E67342-C9F0-47D3-B1B0-C3020E8A5911}|TicketManagementSystem.csproj|solutionrelative:repository\\bookingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E67342-C9F0-47D3-B1B0-C3020E8A5911}|TicketManagementSystem.csproj|d:\\ganesh raaj\\hexaware segue\\technical foundation training\\assignment\\ticketmanagementsystem\\service\\eventserviceproviderimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E67342-C9F0-47D3-B1B0-C3020E8A5911}|TicketManagementSystem.csproj|solutionrelative:service\\eventserviceproviderimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E67342-C9F0-47D3-B1B0-C3020E8A5911}|TicketManagementSystem.csproj|d:\\ganesh raaj\\hexaware segue\\technical foundation training\\assignment\\ticketmanagementsystem\\service\\ieventserviceprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E67342-C9F0-47D3-B1B0-C3020E8A5911}|TicketManagementSystem.csproj|solutionrelative:service\\ieventserviceprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E67342-C9F0-47D3-B1B0-C3020E8A5911}|TicketManagementSystem.csproj|d:\\ganesh raaj\\hexaware segue\\technical foundation training\\assignment\\ticketmanagementsystem\\repository\\sportsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E67342-C9F0-47D3-B1B0-C3020E8A5911}|TicketManagementSystem.csproj|solutionrelative:repository\\sportsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E67342-C9F0-47D3-B1B0-C3020E8A5911}|TicketManagementSystem.csproj|d:\\ganesh raaj\\hexaware segue\\technical foundation training\\assignment\\ticketmanagementsystem\\model\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E67342-C9F0-47D3-B1B0-C3020E8A5911}|TicketManagementSystem.csproj|solutionrelative:model\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E67342-C9F0-47D3-B1B0-C3020E8A5911}|TicketManagementSystem.csproj|d:\\ganesh raaj\\hexaware segue\\technical foundation training\\assignment\\ticketmanagementsystem\\service\\ibookingsystemserviceprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E67342-C9F0-47D3-B1B0-C3020E8A5911}|TicketManagementSystem.csproj|solutionrelative:service\\ibookingsystemserviceprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E67342-C9F0-47D3-B1B0-C3020E8A5911}|TicketManagementSystem.csproj|d:\\ganesh raaj\\hexaware segue\\technical foundation training\\assignment\\ticketmanagementsystem\\util\\dbconnutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E67342-C9F0-47D3-B1B0-C3020E8A5911}|TicketManagementSystem.csproj|solutionrelative:util\\dbconnutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E67342-C9F0-47D3-B1B0-C3020E8A5911}|TicketManagementSystem.csproj|d:\\ganesh raaj\\hexaware segue\\technical foundation training\\assignment\\ticketmanagementsystem\\repository\\customerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E67342-C9F0-47D3-B1B0-C3020E8A5911}|TicketManagementSystem.csproj|solutionrelative:repository\\customerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E67342-C9F0-47D3-B1B0-C3020E8A5911}|TicketManagementSystem.csproj|d:\\ganesh raaj\\hexaware segue\\technical foundation training\\assignment\\ticketmanagementsystem\\repository\\concertrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E67342-C9F0-47D3-B1B0-C3020E8A5911}|TicketManagementSystem.csproj|solutionrelative:repository\\concertrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E67342-C9F0-47D3-B1B0-C3020E8A5911}|TicketManagementSystem.csproj|d:\\ganesh raaj\\hexaware segue\\technical foundation training\\assignment\\ticketmanagementsystem\\service\\bookingsystemserviceproviderimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E67342-C9F0-47D3-B1B0-C3020E8A5911}|TicketManagementSystem.csproj|solutionrelative:service\\bookingsystemserviceproviderimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E67342-C9F0-47D3-B1B0-C3020E8A5911}|TicketManagementSystem.csproj|d:\\ganesh raaj\\hexaware segue\\technical foundation training\\assignment\\ticketmanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E8E67342-C9F0-47D3-B1B0-C3020E8A5911}|TicketManagementSystem.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E67342-C9F0-47D3-B1B0-C3020E8A5911}|TicketManagementSystem.csproj|d:\\ganesh raaj\\hexaware segue\\technical foundation training\\assignment\\ticketmanagementsystem\\model\\concert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E67342-C9F0-47D3-B1B0-C3020E8A5911}|TicketManagementSystem.csproj|solutionrelative:model\\concert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E67342-C9F0-47D3-B1B0-C3020E8A5911}|TicketManagementSystem.csproj|d:\\ganesh raaj\\hexaware segue\\technical foundation training\\assignment\\ticketmanagementsystem\\repository\\movierepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E67342-C9F0-47D3-B1B0-C3020E8A5911}|TicketManagementSystem.csproj|solutionrelative:repository\\movierepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E67342-C9F0-47D3-B1B0-C3020E8A5911}|TicketManagementSystem.csproj|d:\\ganesh raaj\\hexaware segue\\technical foundation training\\assignment\\ticketmanagementsystem\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E67342-C9F0-47D3-B1B0-C3020E8A5911}|TicketManagementSystem.csproj|solutionrelative:model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E67342-C9F0-47D3-B1B0-C3020E8A5911}|TicketManagementSystem.csproj|d:\\ganesh raaj\\hexaware segue\\technical foundation training\\assignment\\ticketmanagementsystem\\constants\\enum_classe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E67342-C9F0-47D3-B1B0-C3020E8A5911}|TicketManagementSystem.csproj|solutionrelative:constants\\enum_classe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E67342-C9F0-47D3-B1B0-C3020E8A5911}|TicketManagementSystem.csproj|d:\\ganesh raaj\\hexaware segue\\technical foundation training\\assignment\\ticketmanagementsystem\\model\\sports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E67342-C9F0-47D3-B1B0-C3020E8A5911}|TicketManagementSystem.csproj|solutionrelative:model\\sports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ganesh Raaj\\HEXAWARE segue\\Technical Foundation Training\\Assignment\\TicketManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Ganesh Raaj\\HEXAWARE segue\\Technical Foundation Training\\Assignment\\TicketManagementSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAowDoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T12:49:26.905Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DbConnUtil.cs",
+              "DocumentMoniker": "D:\\Ganesh Raaj\\HEXAWARE segue\\Technical Foundation Training\\Assignment\\TicketManagementSystem\\Util\\DbConnUtil.cs",
+              "RelativeDocumentMoniker": "Util\\DbConnUtil.cs",
+              "ToolTip": "D:\\Ganesh Raaj\\HEXAWARE segue\\Technical Foundation Training\\Assignment\\TicketManagementSystem\\Util\\DbConnUtil.cs",
+              "RelativeToolTip": "Util\\DbConnUtil.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAlwBwAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T05:58:21.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Ganesh Raaj\\HEXAWARE segue\\Technical Foundation Training\\Assignment\\TicketManagementSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Ganesh Raaj\\HEXAWARE segue\\Technical Foundation Training\\Assignment\\TicketManagementSystem\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-12T05:54:05.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EventServiceProviderImpl.cs",
+              "DocumentMoniker": "D:\\Ganesh Raaj\\HEXAWARE segue\\Technical Foundation Training\\Assignment\\TicketManagementSystem\\Service\\EventServiceProviderImpl.cs",
+              "RelativeDocumentMoniker": "Service\\EventServiceProviderImpl.cs",
+              "ToolTip": "D:\\Ganesh Raaj\\HEXAWARE segue\\Technical Foundation Training\\Assignment\\TicketManagementSystem\\Service\\EventServiceProviderImpl.cs",
+              "RelativeToolTip": "Service\\EventServiceProviderImpl.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAmwDcAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T17:09:22.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BookingSystemServiceProviderImpl.cs",
+              "DocumentMoniker": "D:\\Ganesh Raaj\\HEXAWARE segue\\Technical Foundation Training\\Assignment\\TicketManagementSystem\\Service\\BookingSystemServiceProviderImpl.cs",
+              "RelativeDocumentMoniker": "Service\\BookingSystemServiceProviderImpl.cs",
+              "ToolTip": "D:\\Ganesh Raaj\\HEXAWARE segue\\Technical Foundation Training\\Assignment\\TicketManagementSystem\\Service\\BookingSystemServiceProviderImpl.cs",
+              "RelativeToolTip": "Service\\BookingSystemServiceProviderImpl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAQwBgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T17:05:02.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IBookingSystemServiceProvider.cs",
+              "DocumentMoniker": "D:\\Ganesh Raaj\\HEXAWARE segue\\Technical Foundation Training\\Assignment\\TicketManagementSystem\\Service\\IBookingSystemServiceProvider.cs",
+              "RelativeDocumentMoniker": "Service\\IBookingSystemServiceProvider.cs",
+              "ToolTip": "D:\\Ganesh Raaj\\HEXAWARE segue\\Technical Foundation Training\\Assignment\\TicketManagementSystem\\Service\\IBookingSystemServiceProvider.cs",
+              "RelativeToolTip": "Service\\IBookingSystemServiceProvider.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T16:05:39.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CustomerRepo.cs",
+              "DocumentMoniker": "D:\\Ganesh Raaj\\HEXAWARE segue\\Technical Foundation Training\\Assignment\\TicketManagementSystem\\Repository\\CustomerRepo.cs",
+              "RelativeDocumentMoniker": "Repository\\CustomerRepo.cs",
+              "ToolTip": "D:\\Ganesh Raaj\\HEXAWARE segue\\Technical Foundation Training\\Assignment\\TicketManagementSystem\\Repository\\CustomerRepo.cs",
+              "RelativeToolTip": "Repository\\CustomerRepo.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAswBwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:57:36.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Ganesh Raaj\\HEXAWARE segue\\Technical Foundation Training\\Assignment\\TicketManagementSystem\\Model\\Customer.cs",
+              "RelativeDocumentMoniker": "Model\\Customer.cs",
+              "ToolTip": "D:\\Ganesh Raaj\\HEXAWARE segue\\Technical Foundation Training\\Assignment\\TicketManagementSystem\\Model\\Customer.cs",
+              "RelativeToolTip": "Model\\Customer.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAkwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:02:37.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VenueRepo.cs",
+              "DocumentMoniker": "D:\\Ganesh Raaj\\HEXAWARE segue\\Technical Foundation Training\\Assignment\\TicketManagementSystem\\Repository\\VenueRepo.cs",
+              "RelativeDocumentMoniker": "Repository\\VenueRepo.cs",
+              "ToolTip": "D:\\Ganesh Raaj\\HEXAWARE segue\\Technical Foundation Training\\Assignment\\TicketManagementSystem\\Repository\\VenueRepo.cs",
+              "RelativeToolTip": "Repository\\VenueRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T12:01:04.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Venue.cs",
+              "DocumentMoniker": "D:\\Ganesh Raaj\\HEXAWARE segue\\Technical Foundation Training\\Assignment\\TicketManagementSystem\\Model\\Venue.cs",
+              "RelativeDocumentMoniker": "Model\\Venue.cs",
+              "ToolTip": "D:\\Ganesh Raaj\\HEXAWARE segue\\Technical Foundation Training\\Assignment\\TicketManagementSystem\\Model\\Venue.cs",
+              "RelativeToolTip": "Model\\Venue.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAkwCAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T12:00:57.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookingSystem.cs",
+              "DocumentMoniker": "D:\\Ganesh Raaj\\HEXAWARE segue\\Technical Foundation Training\\Assignment\\TicketManagementSystem\\Model\\BookingSystem.cs",
+              "RelativeDocumentMoniker": "Model\\BookingSystem.cs",
+              "ToolTip": "D:\\Ganesh Raaj\\HEXAWARE segue\\Technical Foundation Training\\Assignment\\TicketManagementSystem\\Model\\BookingSystem.cs",
+              "RelativeToolTip": "Model\\BookingSystem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T09:54:10.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IEventServiceProvider.cs",
+              "DocumentMoniker": "D:\\Ganesh Raaj\\HEXAWARE segue\\Technical Foundation Training\\Assignment\\TicketManagementSystem\\Service\\IEventServiceProvider.cs",
+              "RelativeDocumentMoniker": "Service\\IEventServiceProvider.cs",
+              "ToolTip": "D:\\Ganesh Raaj\\HEXAWARE segue\\Technical Foundation Training\\Assignment\\TicketManagementSystem\\Service\\IEventServiceProvider.cs",
+              "RelativeToolTip": "Service\\IEventServiceProvider.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAmwA0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T13:03:54.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ConcertRepo.cs",
+              "DocumentMoniker": "D:\\Ganesh Raaj\\HEXAWARE segue\\Technical Foundation Training\\Assignment\\TicketManagementSystem\\Repository\\ConcertRepo.cs",
+              "RelativeDocumentMoniker": "Repository\\ConcertRepo.cs",
+              "ToolTip": "D:\\Ganesh Raaj\\HEXAWARE segue\\Technical Foundation Training\\Assignment\\TicketManagementSystem\\Repository\\ConcertRepo.cs",
+              "RelativeToolTip": "Repository\\ConcertRepo.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAIAwwBAAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T06:29:44.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SportsRepo.cs",
+              "DocumentMoniker": "D:\\Ganesh Raaj\\HEXAWARE segue\\Technical Foundation Training\\Assignment\\TicketManagementSystem\\Repository\\SportsRepo.cs",
+              "RelativeDocumentMoniker": "Repository\\SportsRepo.cs",
+              "ToolTip": "D:\\Ganesh Raaj\\HEXAWARE segue\\Technical Foundation Training\\Assignment\\TicketManagementSystem\\Repository\\SportsRepo.cs",
+              "RelativeToolTip": "Repository\\SportsRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T06:29:22.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MovieRepo.cs",
+              "DocumentMoniker": "D:\\Ganesh Raaj\\HEXAWARE segue\\Technical Foundation Training\\Assignment\\TicketManagementSystem\\Repository\\MovieRepo.cs",
+              "RelativeDocumentMoniker": "Repository\\MovieRepo.cs",
+              "ToolTip": "D:\\Ganesh Raaj\\HEXAWARE segue\\Technical Foundation Training\\Assignment\\TicketManagementSystem\\Repository\\MovieRepo.cs",
+              "RelativeToolTip": "Repository\\MovieRepo.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAIAwwA8AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T06:29:21.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookingRepo.cs",
+              "DocumentMoniker": "D:\\Ganesh Raaj\\HEXAWARE segue\\Technical Foundation Training\\Assignment\\TicketManagementSystem\\Repository\\BookingRepo.cs",
+              "RelativeDocumentMoniker": "Repository\\BookingRepo.cs",
+              "ToolTip": "D:\\Ganesh Raaj\\HEXAWARE segue\\Technical Foundation Training\\Assignment\\TicketManagementSystem\\Repository\\BookingRepo.cs",
+              "RelativeToolTip": "Repository\\BookingRepo.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAkwA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T06:22:32.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "D:\\Ganesh Raaj\\HEXAWARE segue\\Technical Foundation Training\\Assignment\\TicketManagementSystem\\Model\\Booking.cs",
+              "RelativeDocumentMoniker": "Model\\Booking.cs",
+              "ToolTip": "D:\\Ganesh Raaj\\HEXAWARE segue\\Technical Foundation Training\\Assignment\\TicketManagementSystem\\Model\\Booking.cs",
+              "RelativeToolTip": "Model\\Booking.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAgwA0AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T06:22:31.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventRepo.cs",
+              "DocumentMoniker": "D:\\Ganesh Raaj\\HEXAWARE segue\\Technical Foundation Training\\Assignment\\TicketManagementSystem\\Repository\\EventRepo.cs",
+              "RelativeDocumentMoniker": "Repository\\EventRepo.cs",
+              "ToolTip": "D:\\Ganesh Raaj\\HEXAWARE segue\\Technical Foundation Training\\Assignment\\TicketManagementSystem\\Repository\\EventRepo.cs",
+              "RelativeToolTip": "Repository\\EventRepo.cs",
+              "ViewState": "AQIAAOQAAAAAAAAAAAAkwAwBAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T06:00:38.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Event.cs",
+              "DocumentMoniker": "D:\\Ganesh Raaj\\HEXAWARE segue\\Technical Foundation Training\\Assignment\\TicketManagementSystem\\Model\\Event.cs",
+              "RelativeDocumentMoniker": "Model\\Event.cs",
+              "ToolTip": "D:\\Ganesh Raaj\\HEXAWARE segue\\Technical Foundation Training\\Assignment\\TicketManagementSystem\\Model\\Event.cs",
+              "RelativeToolTip": "Model\\Event.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAowE0AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T06:00:33.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Concert.cs",
+              "DocumentMoniker": "D:\\Ganesh Raaj\\HEXAWARE segue\\Technical Foundation Training\\Assignment\\TicketManagementSystem\\Model\\Concert.cs",
+              "RelativeDocumentMoniker": "Model\\Concert.cs",
+              "ToolTip": "D:\\Ganesh Raaj\\HEXAWARE segue\\Technical Foundation Training\\Assignment\\TicketManagementSystem\\Model\\Concert.cs",
+              "RelativeToolTip": "Model\\Concert.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAqwEcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T05:55:56.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Sports.cs",
+              "DocumentMoniker": "D:\\Ganesh Raaj\\HEXAWARE segue\\Technical Foundation Training\\Assignment\\TicketManagementSystem\\Model\\Sports.cs",
+              "RelativeDocumentMoniker": "Model\\Sports.cs",
+              "ToolTip": "D:\\Ganesh Raaj\\HEXAWARE segue\\Technical Foundation Training\\Assignment\\TicketManagementSystem\\Model\\Sports.cs",
+              "RelativeToolTip": "Model\\Sports.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAjwEsAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T05:55:48.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Enum_Classe.cs",
+              "DocumentMoniker": "D:\\Ganesh Raaj\\HEXAWARE segue\\Technical Foundation Training\\Assignment\\TicketManagementSystem\\Constants\\Enum_Classe.cs",
+              "RelativeDocumentMoniker": "Constants\\Enum_Classe.cs",
+              "ToolTip": "D:\\Ganesh Raaj\\HEXAWARE segue\\Technical Foundation Training\\Assignment\\TicketManagementSystem\\Constants\\Enum_Classe.cs",
+              "RelativeToolTip": "Constants\\Enum_Classe.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T05:54:01.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "D:\\Ganesh Raaj\\HEXAWARE segue\\Technical Foundation Training\\Assignment\\TicketManagementSystem\\Model\\Movie.cs",
+              "RelativeDocumentMoniker": "Model\\Movie.cs",
+              "ToolTip": "D:\\Ganesh Raaj\\HEXAWARE segue\\Technical Foundation Training\\Assignment\\TicketManagementSystem\\Model\\Movie.cs",
+              "RelativeToolTip": "Model\\Movie.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAArwCIAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T05:43:54.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TicketBookingSystem.cs",
+              "DocumentMoniker": "D:\\Ganesh Raaj\\HEXAWARE segue\\Technical Foundation Training\\Assignment\\TicketManagementSystem\\Model\\TicketBookingSystem.cs",
+              "RelativeDocumentMoniker": "Model\\TicketBookingSystem.cs",
+              "ToolTip": "D:\\Ganesh Raaj\\HEXAWARE segue\\Technical Foundation Training\\Assignment\\TicketManagementSystem\\Model\\TicketBookingSystem.cs",
+              "RelativeToolTip": "Model\\TicketBookingSystem.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAA1wAwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T04:35:56.239Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
